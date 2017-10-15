@@ -52,7 +52,7 @@ Perl Programmer
 Unix Administrator
     Kernel developer (file systems, network protocols)
     Massive Data Architect (ZFS)
-    Server admin (NFSv4, ftp, ssh, httpd, proxy, maild)
+    Server admin (NFSv4, vsftpd, sshd, httpd, proxy, smtpd, OpenVPN)
     Hardware specialist (non-enterprise)
 
 Network Architect

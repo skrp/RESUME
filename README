@@ -1,9 +1,6 @@
 ########################################
-MKRX Contractor
+classic unix hacker contact email:
 mkrx [[at]] protonmail [[dot]] com
-
-classic unix hacker
-$30/Hour
 
 # PORTFOLIO #############################
 https://github.com/skrp
@@ -22,8 +19,8 @@ Tax Preparer -> Associate Accountant
 # 2016 Founded MKRX Inc.
 Bookkeeping
 Networking
-Massive Data Solutions (4+ years)
-Medical Billing (2+ years)
+Massive Data Solutions
+Medical Billing
 
 # SOLUTIONS ############################
 Quickbooks
@@ -37,19 +34,21 @@ Microsoft Office Excel VBA (programmer)
     Payroll Calculation ($50M+ throughput)
 
 Perl Programmer
-    Tax Witholding Calculation
-    Data scraping (pdf, excel, csv...)
-    Office Solutions ( Email Encrypted Attachments ... )
+    Payroll Calculation ($57M throughput)
+    Data scraping remote & local (pdf, excel, csv... http,ftp...)
+    Office Solutions ( Email Encrypted Attachments, PDF/CSV parsing ... )
+    Pension Accounting Calculations
 
 Unix Administrator
     Kernel developer (file systems, network protocols)
-    Massive Data Architect (ZFS)
+    Massive Data Architect (ZFS 100TB+)
     Server admin (NFSv4, vsftpd, sshd, httpd, proxy, smtpd, OpenVPN)
     Hardware specialist (non-enterprise)
+    Unix network worlds & custom kernels
 
 Network Architect
-   Kernel level firewall & routing
-   Multi-node work pool
+   Kernel level firewall & routing via bpf
+   Distributive computing via daemons
 
 
 # PERSONALITY #####################################################################
